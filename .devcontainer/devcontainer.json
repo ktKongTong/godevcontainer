@@ -71,5 +71,6 @@
                 }
             }
         }
-    }
+    },
+    "runArgs":[ "--platform=linux/amd64"]
 }
